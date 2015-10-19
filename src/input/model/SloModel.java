@@ -52,12 +52,12 @@ public class SloModel
 		this.height = height;
 	}
 
-	//public String toString()
-	//{
-		//String sloInfo = "Your favorite movie is " + movie + " and you have " + family + " people in your family and you are " + height + " centimeters tall.";
+	public String toString()
+	{
+		String sloInfo = "Your favorite movie is " + movie + " and you have " + family + " people in your family and you are " + height + " centimeters tall.";
 		
-		//return sloInfo;
-	//}
+		return sloInfo;
+	}
 }
 
 
